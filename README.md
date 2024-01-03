@@ -14,7 +14,9 @@ It's written using well-known nodeJs libraries like `readline-sync`, `chalk`, & 
 
 ## How To Play
 
-In order to play the quiz, click [here](https://replit.com/@ShiviPro/MEmory-Quiz-v2023?embed=1&output=1). Alternatively, you can also click the link that shows up on the top right side just below the About section.
+In order to play the quiz, click [here](https://replit.com/@ShiviPro/MEmory-Quiz-v2023?embed=1&output=1).
+
+Alternatively, you can also click the link that shows up on the top right side in the About section.
 
 You'll be redirected to repl.it which would then present you with a `Run` button. Click it & have fun with the quiz.
 
